@@ -1,0 +1,3002 @@
+[
+  {
+    "order_id": 280000,
+    "order_date": 1685644200000000,
+    "order_amount": 2179.43,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280001,
+    "order_date": 1696185000000000,
+    "order_amount": 3975.88,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280002,
+    "order_date": 1681669800000000,
+    "order_amount": 3673.07,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280003,
+    "order_date": 1683311400000000,
+    "order_amount": 3016.58,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280004,
+    "order_date": 1701109800000000,
+    "order_amount": 2747.55,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280005,
+    "order_date": 1677868200000000,
+    "order_amount": 3118.46,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280006,
+    "order_date": 1696098600000000,
+    "order_amount": 1287.64,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280007,
+    "order_date": 1700505000000000,
+    "order_amount": 2874.92,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280008,
+    "order_date": 1683052200000000,
+    "order_amount": 1996.75,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280009,
+    "order_date": 1678127400000000,
+    "order_amount": 2530.71,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280010,
+    "order_date": 1685730600000000,
+    "order_amount": 3033.87,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280011,
+    "order_date": 1672857000000000,
+    "order_amount": 3416.36,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280012,
+    "order_date": 1694457000000000,
+    "order_amount": 2483.84,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280013,
+    "order_date": 1686853800000000,
+    "order_amount": 2760.57,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280014,
+    "order_date": 1694457000000000,
+    "order_amount": 2214.59,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280015,
+    "order_date": 1702837800000000,
+    "order_amount": 1868.55,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280016,
+    "order_date": 1672857000000000,
+    "order_amount": 1321.32,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280017,
+    "order_date": 1694975400000000,
+    "order_amount": 2803.53,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280018,
+    "order_date": 1681842600000000,
+    "order_amount": 2455.12,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280019,
+    "order_date": 1687372200000000,
+    "order_amount": 1543.64,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280020,
+    "order_date": 1702319400000000,
+    "order_amount": 1274.62,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280021,
+    "order_date": 1691605800000000,
+    "order_amount": 1942.0,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280022,
+    "order_date": 1691433000000000,
+    "order_amount": 2665.85,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280023,
+    "order_date": 1692729000000000,
+    "order_amount": 3980.41,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280024,
+    "order_date": 1686767400000000,
+    "order_amount": 2507.88,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280025,
+    "order_date": 1687804200000000,
+    "order_amount": 3234.17,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280026,
+    "order_date": 1680287400000000,
+    "order_amount": 2198.51,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280027,
+    "order_date": 1695753000000000,
+    "order_amount": 1845.94,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280028,
+    "order_date": 1683570600000000,
+    "order_amount": 3165.21,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280029,
+    "order_date": 1694284200000000,
+    "order_amount": 2358.31,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280030,
+    "order_date": 1691519400000000,
+    "order_amount": 3969.95,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280031,
+    "order_date": 1684348200000000,
+    "order_amount": 3730.41,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280032,
+    "order_date": 1677609000000000,
+    "order_amount": 2841.7,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280033,
+    "order_date": 1703874600000000,
+    "order_amount": 2765.79,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280034,
+    "order_date": 1685817000000000,
+    "order_amount": 3117.62,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280035,
+    "order_date": 1700245800000000,
+    "order_amount": 1417.78,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280036,
+    "order_date": 1678645800000000,
+    "order_amount": 3773.73,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280037,
+    "order_date": 1676140200000000,
+    "order_amount": 3336.64,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280038,
+    "order_date": 1679941800000000,
+    "order_amount": 2270.38,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280039,
+    "order_date": 1674239400000000,
+    "order_amount": 2222.51,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280040,
+    "order_date": 1696444200000000,
+    "order_amount": 1451.26,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280041,
+    "order_date": 1675189800000000,
+    "order_amount": 3766.02,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280042,
+    "order_date": 1696530600000000,
+    "order_amount": 3784.86,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280043,
+    "order_date": 1684780200000000,
+    "order_amount": 1460.89,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280044,
+    "order_date": 1675449000000000,
+    "order_amount": 2767.74,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280045,
+    "order_date": 1703442600000000,
+    "order_amount": 2901.11,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280046,
+    "order_date": 1694629800000000,
+    "order_amount": 3233.85,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280047,
+    "order_date": 1686421800000000,
+    "order_amount": 2000.22,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280048,
+    "order_date": 1678905000000000,
+    "order_amount": 3620.41,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280049,
+    "order_date": 1675189800000000,
+    "order_amount": 2701.05,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280050,
+    "order_date": 1674325800000000,
+    "order_amount": 1312.91,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280051,
+    "order_date": 1688063400000000,
+    "order_amount": 2058.33,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280052,
+    "order_date": 1684175400000000,
+    "order_amount": 2086.87,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280053,
+    "order_date": 1702837800000000,
+    "order_amount": 2177.27,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280054,
+    "order_date": 1702665000000000,
+    "order_amount": 3520.29,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280055,
+    "order_date": 1682188200000000,
+    "order_amount": 2132.16,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280056,
+    "order_date": 1680892200000000,
+    "order_amount": 1806.55,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280057,
+    "order_date": 1689186600000000,
+    "order_amount": 2518.71,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280058,
+    "order_date": 1684607400000000,
+    "order_amount": 3975.7,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280059,
+    "order_date": 1697049000000000,
+    "order_amount": 2577.22,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280060,
+    "order_date": 1682274600000000,
+    "order_amount": 2315.53,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280061,
+    "order_date": 1680805800000000,
+    "order_amount": 2795.99,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280062,
+    "order_date": 1685644200000000,
+    "order_amount": 1599.59,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280063,
+    "order_date": 1676140200000000,
+    "order_amount": 3407.39,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280064,
+    "order_date": 1701369000000000,
+    "order_amount": 3638.27,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280065,
+    "order_date": 1694197800000000,
+    "order_amount": 3148.99,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280066,
+    "order_date": 1679423400000000,
+    "order_amount": 3909.02,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280067,
+    "order_date": 1701973800000000,
+    "order_amount": 1718.18,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280068,
+    "order_date": 1678300200000000,
+    "order_amount": 2264.75,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280069,
+    "order_date": 1681583400000000,
+    "order_amount": 2251.34,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280070,
+    "order_date": 1699813800000000,
+    "order_amount": 1108.06,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280071,
+    "order_date": 1700073000000000,
+    "order_amount": 1076.46,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280072,
+    "order_date": 1688581800000000,
+    "order_amount": 2288.04,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280073,
+    "order_date": 1680892200000000,
+    "order_amount": 3144.05,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280074,
+    "order_date": 1681929000000000,
+    "order_amount": 2692.85,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280075,
+    "order_date": 1684693800000000,
+    "order_amount": 2546.83,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280076,
+    "order_date": 1698345000000000,
+    "order_amount": 1192.01,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280077,
+    "order_date": 1689618600000000,
+    "order_amount": 2059.29,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280078,
+    "order_date": 1690914600000000,
+    "order_amount": 3684.64,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280079,
+    "order_date": 1702837800000000,
+    "order_amount": 1632.65,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280080,
+    "order_date": 1690396200000000,
+    "order_amount": 2676.45,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280081,
+    "order_date": 1696876200000000,
+    "order_amount": 3659.4,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280082,
+    "order_date": 1704047400000000,
+    "order_amount": 3870.56,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280083,
+    "order_date": 1689791400000000,
+    "order_amount": 1827.96,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280084,
+    "order_date": 1685471400000000,
+    "order_amount": 1096.16,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280085,
+    "order_date": 1689618600000000,
+    "order_amount": 3181.92,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280086,
+    "order_date": 1682188200000000,
+    "order_amount": 3801.22,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280087,
+    "order_date": 1693247400000000,
+    "order_amount": 2682.99,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280088,
+    "order_date": 1679077800000000,
+    "order_amount": 1107.56,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280089,
+    "order_date": 1696617000000000,
+    "order_amount": 3481.85,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280090,
+    "order_date": 1686681000000000,
+    "order_amount": 1733.72,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280091,
+    "order_date": 1700505000000000,
+    "order_amount": 2816.13,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280092,
+    "order_date": 1693852200000000,
+    "order_amount": 3140.39,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280093,
+    "order_date": 1692901800000000,
+    "order_amount": 3138.27,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280094,
+    "order_date": 1678991400000000,
+    "order_amount": 2754.74,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280095,
+    "order_date": 1682620200000000,
+    "order_amount": 1067.64,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280096,
+    "order_date": 1681929000000000,
+    "order_amount": 3698.87,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280097,
+    "order_date": 1687631400000000,
+    "order_amount": 1154.43,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280098,
+    "order_date": 1696962600000000,
+    "order_amount": 1457.02,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280099,
+    "order_date": 1690050600000000,
+    "order_amount": 2226.27,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280100,
+    "order_date": 1701628200000000,
+    "order_amount": 2714.34,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280101,
+    "order_date": 1676831400000000,
+    "order_amount": 3997.72,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280102,
+    "order_date": 1682620200000000,
+    "order_amount": 2275.98,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280103,
+    "order_date": 1703961000000000,
+    "order_amount": 1136.84,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280104,
+    "order_date": 1680287400000000,
+    "order_amount": 3947.23,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280105,
+    "order_date": 1687113000000000,
+    "order_amount": 3250.93,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280106,
+    "order_date": 1698777000000000,
+    "order_amount": 3656.19,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280107,
+    "order_date": 1687199400000000,
+    "order_amount": 3314.88,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280108,
+    "order_date": 1697394600000000,
+    "order_amount": 1259.22,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280109,
+    "order_date": 1692729000000000,
+    "order_amount": 1050.31,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280110,
+    "order_date": 1703183400000000,
+    "order_amount": 2030.33,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280111,
+    "order_date": 1701109800000000,
+    "order_amount": 3712.6,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280112,
+    "order_date": 1689877800000000,
+    "order_amount": 3397.6,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280113,
+    "order_date": 1697826600000000,
+    "order_amount": 1090.1,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280114,
+    "order_date": 1677609000000000,
+    "order_amount": 2690.68,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280115,
+    "order_date": 1699727400000000,
+    "order_amount": 1232.67,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280116,
+    "order_date": 1698345000000000,
+    "order_amount": 2467.65,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280117,
+    "order_date": 1673721000000000,
+    "order_amount": 3692.93,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280118,
+    "order_date": 1675449000000000,
+    "order_amount": 3514.16,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280119,
+    "order_date": 1689100200000000,
+    "order_amount": 1853.22,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280120,
+    "order_date": 1695493800000000,
+    "order_amount": 1376.12,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280121,
+    "order_date": 1697567400000000,
+    "order_amount": 2195.16,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280122,
+    "order_date": 1683138600000000,
+    "order_amount": 1333.86,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280123,
+    "order_date": 1689532200000000,
+    "order_amount": 3617.22,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280124,
+    "order_date": 1694889000000000,
+    "order_amount": 2862.37,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280125,
+    "order_date": 1684261800000000,
+    "order_amount": 2931.71,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280126,
+    "order_date": 1681497000000000,
+    "order_amount": 2089.73,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280127,
+    "order_date": 1678041000000000,
+    "order_amount": 2636.86,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280128,
+    "order_date": 1684607400000000,
+    "order_amount": 1578.99,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280129,
+    "order_date": 1688581800000000,
+    "order_amount": 1894.68,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280130,
+    "order_date": 1676485800000000,
+    "order_amount": 1197.78,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280131,
+    "order_date": 1673721000000000,
+    "order_amount": 2766.85,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280132,
+    "order_date": 1698777000000000,
+    "order_amount": 1176.2,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280133,
+    "order_date": 1686594600000000,
+    "order_amount": 1920.35,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280134,
+    "order_date": 1678645800000000,
+    "order_amount": 2810.08,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280135,
+    "order_date": 1694889000000000,
+    "order_amount": 2254.01,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280136,
+    "order_date": 1680892200000000,
+    "order_amount": 1396.22,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280137,
+    "order_date": 1674066600000000,
+    "order_amount": 1215.01,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280138,
+    "order_date": 1701973800000000,
+    "order_amount": 2411.84,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280139,
+    "order_date": 1701801000000000,
+    "order_amount": 1992.15,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280140,
+    "order_date": 1676226600000000,
+    "order_amount": 1017.77,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280141,
+    "order_date": 1684866600000000,
+    "order_amount": 1904.49,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280142,
+    "order_date": 1682188200000000,
+    "order_amount": 2876.37,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280143,
+    "order_date": 1678473000000000,
+    "order_amount": 3233.24,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280144,
+    "order_date": 1701887400000000,
+    "order_amount": 3761.09,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280145,
+    "order_date": 1681151400000000,
+    "order_amount": 3315.1,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280146,
+    "order_date": 1699813800000000,
+    "order_amount": 2284.23,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280147,
+    "order_date": 1676053800000000,
+    "order_amount": 1650.04,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280148,
+    "order_date": 1680805800000000,
+    "order_amount": 3419.15,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280149,
+    "order_date": 1677868200000000,
+    "order_amount": 1994.57,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280150,
+    "order_date": 1700418600000000,
+    "order_amount": 3141.75,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280151,
+    "order_date": 1698431400000000,
+    "order_amount": 1106.49,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280152,
+    "order_date": 1686940200000000,
+    "order_amount": 2610.78,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280153,
+    "order_date": 1703615400000000,
+    "order_amount": 1966.64,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280154,
+    "order_date": 1680028200000000,
+    "order_amount": 3477.68,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280155,
+    "order_date": 1701196200000000,
+    "order_amount": 1705.61,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280156,
+    "order_date": 1696012200000000,
+    "order_amount": 3629.44,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280157,
+    "order_date": 1674844200000000,
+    "order_amount": 2361.46,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280158,
+    "order_date": 1700764200000000,
+    "order_amount": 3079.76,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280159,
+    "order_date": 1687285800000000,
+    "order_amount": 1864.71,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280160,
+    "order_date": 1681756200000000,
+    "order_amount": 1972.67,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280161,
+    "order_date": 1680546600000000,
+    "order_amount": 1468.77,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280162,
+    "order_date": 1704047400000000,
+    "order_amount": 3533.02,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280163,
+    "order_date": 1686940200000000,
+    "order_amount": 2981.48,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280164,
+    "order_date": 1697826600000000,
+    "order_amount": 1463.92,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280165,
+    "order_date": 1677695400000000,
+    "order_amount": 1858.73,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280166,
+    "order_date": 1682879400000000,
+    "order_amount": 3051.22,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280167,
+    "order_date": 1693420200000000,
+    "order_amount": 3034.39,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280168,
+    "order_date": 1676485800000000,
+    "order_amount": 1976.11,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280169,
+    "order_date": 1677522600000000,
+    "order_amount": 3164.87,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280170,
+    "order_date": 1682101800000000,
+    "order_amount": 2858.38,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280171,
+    "order_date": 1700418600000000,
+    "order_amount": 2775.3,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280172,
+    "order_date": 1684866600000000,
+    "order_amount": 3875.59,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280173,
+    "order_date": 1686421800000000,
+    "order_amount": 2232.3,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280174,
+    "order_date": 1676399400000000,
+    "order_amount": 3027.6,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280175,
+    "order_date": 1697135400000000,
+    "order_amount": 1730.89,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280176,
+    "order_date": 1678300200000000,
+    "order_amount": 1363.87,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280177,
+    "order_date": 1701801000000000,
+    "order_amount": 3022.99,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280178,
+    "order_date": 1684434600000000,
+    "order_amount": 2551.27,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280179,
+    "order_date": 1678818600000000,
+    "order_amount": 3241.76,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280180,
+    "order_date": 1694370600000000,
+    "order_amount": 1105.36,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280181,
+    "order_date": 1686940200000000,
+    "order_amount": 3206.75,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280182,
+    "order_date": 1680892200000000,
+    "order_amount": 1415.49,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280183,
+    "order_date": 1689445800000000,
+    "order_amount": 1269.63,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280184,
+    "order_date": 1698863400000000,
+    "order_amount": 1280.59,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280185,
+    "order_date": 1698863400000000,
+    "order_amount": 2792.65,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280186,
+    "order_date": 1685125800000000,
+    "order_amount": 3427.82,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280187,
+    "order_date": 1683743400000000,
+    "order_amount": 2471.76,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280188,
+    "order_date": 1682706600000000,
+    "order_amount": 2147.38,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280189,
+    "order_date": 1679941800000000,
+    "order_amount": 2448.56,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280190,
+    "order_date": 1686853800000000,
+    "order_amount": 3833.17,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280191,
+    "order_date": 1681929000000000,
+    "order_amount": 3791.04,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280192,
+    "order_date": 1698949800000000,
+    "order_amount": 3578.66,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280193,
+    "order_date": 1683657000000000,
+    "order_amount": 2506.38,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280194,
+    "order_date": 1697567400000000,
+    "order_amount": 2943.96,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280195,
+    "order_date": 1704047400000000,
+    "order_amount": 2287.53,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280196,
+    "order_date": 1683657000000000,
+    "order_amount": 1981.56,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280197,
+    "order_date": 1682706600000000,
+    "order_amount": 1443.39,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280198,
+    "order_date": 1697394600000000,
+    "order_amount": 2604.45,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280199,
+    "order_date": 1686249000000000,
+    "order_amount": 2033.55,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280200,
+    "order_date": 1688581800000000,
+    "order_amount": 3256.1,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280201,
+    "order_date": 1685557800000000,
+    "order_amount": 3389.35,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280202,
+    "order_date": 1673634600000000,
+    "order_amount": 2306.45,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280203,
+    "order_date": 1685644200000000,
+    "order_amount": 1211.63,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280204,
+    "order_date": 1686594600000000,
+    "order_amount": 3574.56,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280205,
+    "order_date": 1702578600000000,
+    "order_amount": 2811.73,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280206,
+    "order_date": 1677349800000000,
+    "order_amount": 3939.13,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280207,
+    "order_date": 1677695400000000,
+    "order_amount": 2169.65,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280208,
+    "order_date": 1690223400000000,
+    "order_amount": 2930.42,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280209,
+    "order_date": 1673634600000000,
+    "order_amount": 2115.45,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280210,
+    "order_date": 1674671400000000,
+    "order_amount": 1874.99,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280211,
+    "order_date": 1700505000000000,
+    "order_amount": 1701.12,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280212,
+    "order_date": 1677868200000000,
+    "order_amount": 2824.45,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280213,
+    "order_date": 1679855400000000,
+    "order_amount": 2522.65,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280214,
+    "order_date": 1698345000000000,
+    "order_amount": 2873.94,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280215,
+    "order_date": 1692037800000000,
+    "order_amount": 3661.92,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280216,
+    "order_date": 1682361000000000,
+    "order_amount": 1888.31,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280217,
+    "order_date": 1703788200000000,
+    "order_amount": 2205.02,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280218,
+    "order_date": 1690309800000000,
+    "order_amount": 2575.61,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280219,
+    "order_date": 1674239400000000,
+    "order_amount": 2985.79,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280220,
+    "order_date": 1681929000000000,
+    "order_amount": 1068.58,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280221,
+    "order_date": 1686249000000000,
+    "order_amount": 1255.65,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280222,
+    "order_date": 1702924200000000,
+    "order_amount": 2528.69,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280223,
+    "order_date": 1694889000000000,
+    "order_amount": 1608.21,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280224,
+    "order_date": 1683225000000000,
+    "order_amount": 3374.69,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280225,
+    "order_date": 1687199400000000,
+    "order_amount": 2341.74,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280226,
+    "order_date": 1690655400000000,
+    "order_amount": 2406.43,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280227,
+    "order_date": 1681929000000000,
+    "order_amount": 1561.15,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280228,
+    "order_date": 1685298600000000,
+    "order_amount": 2872.19,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280229,
+    "order_date": 1673980200000000,
+    "order_amount": 1070.48,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280230,
+    "order_date": 1695407400000000,
+    "order_amount": 2631.62,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280231,
+    "order_date": 1698863400000000,
+    "order_amount": 1058.47,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280232,
+    "order_date": 1697913000000000,
+    "order_amount": 2668.92,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280233,
+    "order_date": 1680460200000000,
+    "order_amount": 2118.35,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280234,
+    "order_date": 1691433000000000,
+    "order_amount": 2800.68,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280235,
+    "order_date": 1695061800000000,
+    "order_amount": 3875.72,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280236,
+    "order_date": 1697221800000000,
+    "order_amount": 2243.85,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280237,
+    "order_date": 1699813800000000,
+    "order_amount": 1628.47,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280238,
+    "order_date": 1701023400000000,
+    "order_amount": 3132.5,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280239,
+    "order_date": 1676140200000000,
+    "order_amount": 2914.54,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280240,
+    "order_date": 1698863400000000,
+    "order_amount": 1444.47,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280241,
+    "order_date": 1703183400000000,
+    "order_amount": 3435.68,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280242,
+    "order_date": 1686940200000000,
+    "order_amount": 3510.94,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280243,
+    "order_date": 1677868200000000,
+    "order_amount": 3188.88,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280244,
+    "order_date": 1679423400000000,
+    "order_amount": 1593.51,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280245,
+    "order_date": 1680892200000000,
+    "order_amount": 2742.67,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280246,
+    "order_date": 1685903400000000,
+    "order_amount": 3896.89,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280247,
+    "order_date": 1685298600000000,
+    "order_amount": 2885.8,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280248,
+    "order_date": 1691865000000000,
+    "order_amount": 3456.65,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280249,
+    "order_date": 1688409000000000,
+    "order_amount": 3719.89,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280250,
+    "order_date": 1701282600000000,
+    "order_amount": 2347.58,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280251,
+    "order_date": 1702060200000000,
+    "order_amount": 2807.57,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280252,
+    "order_date": 1682879400000000,
+    "order_amount": 3808.51,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280253,
+    "order_date": 1677522600000000,
+    "order_amount": 3081.71,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280254,
+    "order_date": 1688409000000000,
+    "order_amount": 3968.66,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280255,
+    "order_date": 1697221800000000,
+    "order_amount": 1587.28,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280256,
+    "order_date": 1693333800000000,
+    "order_amount": 2840.08,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280257,
+    "order_date": 1674498600000000,
+    "order_amount": 2867.99,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280258,
+    "order_date": 1687977000000000,
+    "order_amount": 3691.34,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280259,
+    "order_date": 1676140200000000,
+    "order_amount": 1907.78,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280260,
+    "order_date": 1701801000000000,
+    "order_amount": 3839.29,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280261,
+    "order_date": 1699554600000000,
+    "order_amount": 2233.78,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280262,
+    "order_date": 1680201000000000,
+    "order_amount": 1088.62,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280263,
+    "order_date": 1698604200000000,
+    "order_amount": 3509.01,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280264,
+    "order_date": 1690914600000000,
+    "order_amount": 1853.67,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280265,
+    "order_date": 1688236200000000,
+    "order_amount": 3694.37,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280266,
+    "order_date": 1700073000000000,
+    "order_amount": 3163.3,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280267,
+    "order_date": 1689877800000000,
+    "order_amount": 1396.09,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280268,
+    "order_date": 1684866600000000,
+    "order_amount": 1270.27,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280269,
+    "order_date": 1685817000000000,
+    "order_amount": 3351.3,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280270,
+    "order_date": 1676313000000000,
+    "order_amount": 2471.36,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280271,
+    "order_date": 1681410600000000,
+    "order_amount": 3129.38,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280272,
+    "order_date": 1678041000000000,
+    "order_amount": 1831.61,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280273,
+    "order_date": 1693161000000000,
+    "order_amount": 1040.66,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280274,
+    "order_date": 1683743400000000,
+    "order_amount": 2481.53,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280275,
+    "order_date": 1686508200000000,
+    "order_amount": 1903.53,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280276,
+    "order_date": 1674585000000000,
+    "order_amount": 3890.72,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280277,
+    "order_date": 1677004200000000,
+    "order_amount": 2246.51,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280278,
+    "order_date": 1672684200000000,
+    "order_amount": 2477.12,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280279,
+    "order_date": 1686940200000000,
+    "order_amount": 3707.04,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280280,
+    "order_date": 1700073000000000,
+    "order_amount": 3316.35,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280281,
+    "order_date": 1680546600000000,
+    "order_amount": 3393.99,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280282,
+    "order_date": 1687631400000000,
+    "order_amount": 2205.51,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280283,
+    "order_date": 1682101800000000,
+    "order_amount": 1908.76,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280284,
+    "order_date": 1677004200000000,
+    "order_amount": 1201.28,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280285,
+    "order_date": 1674153000000000,
+    "order_amount": 1122.74,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280286,
+    "order_date": 1694197800000000,
+    "order_amount": 3227.95,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280287,
+    "order_date": 1675794600000000,
+    "order_amount": 1024.42,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280288,
+    "order_date": 1684175400000000,
+    "order_amount": 2001.29,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280289,
+    "order_date": 1687285800000000,
+    "order_amount": 2348.45,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280290,
+    "order_date": 1698172200000000,
+    "order_amount": 3161.71,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280291,
+    "order_date": 1680201000000000,
+    "order_amount": 1944.65,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280292,
+    "order_date": 1687631400000000,
+    "order_amount": 3565.33,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280293,
+    "order_date": 1680287400000000,
+    "order_amount": 2406.59,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280294,
+    "order_date": 1681065000000000,
+    "order_amount": 1105.01,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280295,
+    "order_date": 1702578600000000,
+    "order_amount": 3137.6,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280296,
+    "order_date": 1695407400000000,
+    "order_amount": 3081.35,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280297,
+    "order_date": 1702924200000000,
+    "order_amount": 1832.02,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280298,
+    "order_date": 1685039400000000,
+    "order_amount": 2294.76,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280299,
+    "order_date": 1703615400000000,
+    "order_amount": 1332.3,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280300,
+    "order_date": 1675276200000000,
+    "order_amount": 3065.33,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280301,
+    "order_date": 1696098600000000,
+    "order_amount": 1259.26,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280302,
+    "order_date": 1688063400000000,
+    "order_amount": 3863.83,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280303,
+    "order_date": 1688236200000000,
+    "order_amount": 3282.88,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280304,
+    "order_date": 1701541800000000,
+    "order_amount": 2340.92,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280305,
+    "order_date": 1698085800000000,
+    "order_amount": 2347.23,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280306,
+    "order_date": 1685644200000000,
+    "order_amount": 3441.16,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280307,
+    "order_date": 1686508200000000,
+    "order_amount": 3633.93,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280308,
+    "order_date": 1680805800000000,
+    "order_amount": 3182.8,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280309,
+    "order_date": 1677868200000000,
+    "order_amount": 1186.55,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280310,
+    "order_date": 1684866600000000,
+    "order_amount": 2476.81,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280311,
+    "order_date": 1677349800000000,
+    "order_amount": 1667.11,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280312,
+    "order_date": 1691173800000000,
+    "order_amount": 1160.73,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280313,
+    "order_date": 1702060200000000,
+    "order_amount": 2612.24,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280314,
+    "order_date": 1682533800000000,
+    "order_amount": 3961.92,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280315,
+    "order_date": 1700591400000000,
+    "order_amount": 2907.39,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280316,
+    "order_date": 1676745000000000,
+    "order_amount": 2212.88,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280317,
+    "order_date": 1697913000000000,
+    "order_amount": 1509.92,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280318,
+    "order_date": 1702233000000000,
+    "order_amount": 3416.45,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280319,
+    "order_date": 1696789800000000,
+    "order_amount": 2217.05,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280320,
+    "order_date": 1697567400000000,
+    "order_amount": 2809.55,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280321,
+    "order_date": 1674412200000000,
+    "order_amount": 3689.04,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280322,
+    "order_date": 1686508200000000,
+    "order_amount": 3496.34,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280323,
+    "order_date": 1700418600000000,
+    "order_amount": 1583.75,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280324,
+    "order_date": 1683484200000000,
+    "order_amount": 2463.37,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280325,
+    "order_date": 1682101800000000,
+    "order_amount": 2813.16,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280326,
+    "order_date": 1693247400000000,
+    "order_amount": 1543.09,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280327,
+    "order_date": 1689273000000000,
+    "order_amount": 1883.78,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280328,
+    "order_date": 1672597800000000,
+    "order_amount": 1152.33,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280329,
+    "order_date": 1703615400000000,
+    "order_amount": 1280.73,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280330,
+    "order_date": 1685471400000000,
+    "order_amount": 3169.36,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280331,
+    "order_date": 1679769000000000,
+    "order_amount": 2168.08,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280332,
+    "order_date": 1676917800000000,
+    "order_amount": 3834.02,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280333,
+    "order_date": 1681410600000000,
+    "order_amount": 1821.07,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280334,
+    "order_date": 1675103400000000,
+    "order_amount": 3440.99,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280335,
+    "order_date": 1695061800000000,
+    "order_amount": 2891.42,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280336,
+    "order_date": 1693420200000000,
+    "order_amount": 3476.75,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280337,
+    "order_date": 1686508200000000,
+    "order_amount": 3660.4,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280338,
+    "order_date": 1690828200000000,
+    "order_amount": 3589.58,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280339,
+    "order_date": 1687285800000000,
+    "order_amount": 1526.56,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280340,
+    "order_date": 1680460200000000,
+    "order_amount": 1646.8,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280341,
+    "order_date": 1683225000000000,
+    "order_amount": 2624.9,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280342,
+    "order_date": 1694284200000000,
+    "order_amount": 3215.23,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280343,
+    "order_date": 1687890600000000,
+    "order_amount": 2168.14,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280344,
+    "order_date": 1694284200000000,
+    "order_amount": 1727.85,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280345,
+    "order_date": 1698517800000000,
+    "order_amount": 3736.18,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280346,
+    "order_date": 1677436200000000,
+    "order_amount": 2894.69,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280347,
+    "order_date": 1678645800000000,
+    "order_amount": 3332.42,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280348,
+    "order_date": 1695321000000000,
+    "order_amount": 2330.41,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280349,
+    "order_date": 1701109800000000,
+    "order_amount": 1034.83,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280350,
+    "order_date": 1695407400000000,
+    "order_amount": 1925.01,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280351,
+    "order_date": 1692124200000000,
+    "order_amount": 3658.58,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280352,
+    "order_date": 1673375400000000,
+    "order_amount": 2879.35,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280353,
+    "order_date": 1692988200000000,
+    "order_amount": 1310.17,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280354,
+    "order_date": 1678559400000000,
+    "order_amount": 1535.73,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280355,
+    "order_date": 1681756200000000,
+    "order_amount": 1009.1,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280356,
+    "order_date": 1688495400000000,
+    "order_amount": 1249.02,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280357,
+    "order_date": 1688149800000000,
+    "order_amount": 1493.91,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280358,
+    "order_date": 1677781800000000,
+    "order_amount": 1418.03,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280359,
+    "order_date": 1702751400000000,
+    "order_amount": 1707.44,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280360,
+    "order_date": 1682361000000000,
+    "order_amount": 2525.3,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280361,
+    "order_date": 1681065000000000,
+    "order_amount": 3819.82,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280362,
+    "order_date": 1676745000000000,
+    "order_amount": 3767.84,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280363,
+    "order_date": 1694716200000000,
+    "order_amount": 2076.64,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280364,
+    "order_date": 1698690600000000,
+    "order_amount": 1622.02,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280365,
+    "order_date": 1691951400000000,
+    "order_amount": 2395.02,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280366,
+    "order_date": 1684434600000000,
+    "order_amount": 2325.89,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280367,
+    "order_date": 1690569000000000,
+    "order_amount": 1717.81,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280368,
+    "order_date": 1676745000000000,
+    "order_amount": 1591.29,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280369,
+    "order_date": 1689100200000000,
+    "order_amount": 2601.46,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280370,
+    "order_date": 1676572200000000,
+    "order_amount": 2536.2,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280371,
+    "order_date": 1688063400000000,
+    "order_amount": 2007.85,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280372,
+    "order_date": 1683311400000000,
+    "order_amount": 2825.46,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280373,
+    "order_date": 1694025000000000,
+    "order_amount": 2832.18,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280374,
+    "order_date": 1679855400000000,
+    "order_amount": 2284.45,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280375,
+    "order_date": 1674325800000000,
+    "order_amount": 1857.08,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280376,
+    "order_date": 1690309800000000,
+    "order_amount": 1256.74,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280377,
+    "order_date": 1683052200000000,
+    "order_amount": 1984.33,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280378,
+    "order_date": 1683829800000000,
+    "order_amount": 2581.69,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280379,
+    "order_date": 1672770600000000,
+    "order_amount": 1941.57,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280380,
+    "order_date": 1701628200000000,
+    "order_amount": 2914.46,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280381,
+    "order_date": 1695839400000000,
+    "order_amount": 2202.26,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280382,
+    "order_date": 1681324200000000,
+    "order_amount": 3903.05,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280383,
+    "order_date": 1687890600000000,
+    "order_amount": 1234.37,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280384,
+    "order_date": 1673634600000000,
+    "order_amount": 1868.38,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280385,
+    "order_date": 1677349800000000,
+    "order_amount": 1393.67,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280386,
+    "order_date": 1701541800000000,
+    "order_amount": 2585.04,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280387,
+    "order_date": 1673980200000000,
+    "order_amount": 3302.57,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280388,
+    "order_date": 1698431400000000,
+    "order_amount": 3536.32,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280389,
+    "order_date": 1682101800000000,
+    "order_amount": 1992.6,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280390,
+    "order_date": 1681151400000000,
+    "order_amount": 2386.84,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280391,
+    "order_date": 1702146600000000,
+    "order_amount": 1751.93,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280392,
+    "order_date": 1688581800000000,
+    "order_amount": 1704.78,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280393,
+    "order_date": 1677436200000000,
+    "order_amount": 3070.53,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280394,
+    "order_date": 1676226600000000,
+    "order_amount": 1745.67,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280395,
+    "order_date": 1701801000000000,
+    "order_amount": 3603.31,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280396,
+    "order_date": 1702924200000000,
+    "order_amount": 1356.69,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280397,
+    "order_date": 1679855400000000,
+    "order_amount": 3187.05,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280398,
+    "order_date": 1678991400000000,
+    "order_amount": 1286.01,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280399,
+    "order_date": 1683916200000000,
+    "order_amount": 2088.11,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280400,
+    "order_date": 1674671400000000,
+    "order_amount": 1907.07,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280401,
+    "order_date": 1702665000000000,
+    "order_amount": 1942.33,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280402,
+    "order_date": 1694716200000000,
+    "order_amount": 3984.37,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280403,
+    "order_date": 1702233000000000,
+    "order_amount": 2865.28,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280404,
+    "order_date": 1692988200000000,
+    "order_amount": 2466.04,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280405,
+    "order_date": 1687631400000000,
+    "order_amount": 2213.46,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280406,
+    "order_date": 1681151400000000,
+    "order_amount": 2826.88,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280407,
+    "order_date": 1696444200000000,
+    "order_amount": 2736.57,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280408,
+    "order_date": 1681583400000000,
+    "order_amount": 3150.19,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280409,
+    "order_date": 1691692200000000,
+    "order_amount": 3975.9,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280410,
+    "order_date": 1677522600000000,
+    "order_amount": 2909.22,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280411,
+    "order_date": 1682965800000000,
+    "order_amount": 2475.64,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280412,
+    "order_date": 1675276200000000,
+    "order_amount": 3398.86,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280413,
+    "order_date": 1692037800000000,
+    "order_amount": 1937.75,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280414,
+    "order_date": 1678905000000000,
+    "order_amount": 3183.07,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280415,
+    "order_date": 1685730600000000,
+    "order_amount": 1229.53,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280416,
+    "order_date": 1680892200000000,
+    "order_amount": 1071.89,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280417,
+    "order_date": 1694889000000000,
+    "order_amount": 1902.06,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280418,
+    "order_date": 1695148200000000,
+    "order_amount": 3008.9,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280419,
+    "order_date": 1696185000000000,
+    "order_amount": 3602.05,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280420,
+    "order_date": 1678041000000000,
+    "order_amount": 3934.42,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280421,
+    "order_date": 1673634600000000,
+    "order_amount": 3557.78,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280422,
+    "order_date": 1692556200000000,
+    "order_amount": 2991.02,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280423,
+    "order_date": 1690655400000000,
+    "order_amount": 2770.39,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280424,
+    "order_date": 1697135400000000,
+    "order_amount": 3038.95,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280425,
+    "order_date": 1689186600000000,
+    "order_amount": 1169.24,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280426,
+    "order_date": 1694802600000000,
+    "order_amount": 2436.12,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280427,
+    "order_date": 1702665000000000,
+    "order_amount": 2797.11,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280428,
+    "order_date": 1699727400000000,
+    "order_amount": 3131.96,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280429,
+    "order_date": 1677781800000000,
+    "order_amount": 3756.21,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280430,
+    "order_date": 1690050600000000,
+    "order_amount": 1642.35,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280431,
+    "order_date": 1686249000000000,
+    "order_amount": 2417.62,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280432,
+    "order_date": 1688149800000000,
+    "order_amount": 2518.88,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280433,
+    "order_date": 1680028200000000,
+    "order_amount": 2223.33,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280434,
+    "order_date": 1692988200000000,
+    "order_amount": 2224.19,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280435,
+    "order_date": 1685385000000000,
+    "order_amount": 1866.73,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280436,
+    "order_date": 1702405800000000,
+    "order_amount": 3712.45,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280437,
+    "order_date": 1688668200000000,
+    "order_amount": 2252.46,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280438,
+    "order_date": 1691433000000000,
+    "order_amount": 1192.05,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280439,
+    "order_date": 1673202600000000,
+    "order_amount": 3086.17,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280440,
+    "order_date": 1675708200000000,
+    "order_amount": 1493.02,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280441,
+    "order_date": 1682188200000000,
+    "order_amount": 2984.0,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280442,
+    "order_date": 1703356200000000,
+    "order_amount": 2964.36,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280443,
+    "order_date": 1694284200000000,
+    "order_amount": 2647.17,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280444,
+    "order_date": 1691001000000000,
+    "order_amount": 3581.91,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280445,
+    "order_date": 1694716200000000,
+    "order_amount": 2833.36,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280446,
+    "order_date": 1685125800000000,
+    "order_amount": 1582.76,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280447,
+    "order_date": 1689618600000000,
+    "order_amount": 2344.37,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280448,
+    "order_date": 1699295400000000,
+    "order_amount": 1005.04,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280449,
+    "order_date": 1702146600000000,
+    "order_amount": 3543.57,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280450,
+    "order_date": 1683311400000000,
+    "order_amount": 3715.67,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280451,
+    "order_date": 1684521000000000,
+    "order_amount": 2512.03,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280452,
+    "order_date": 1687631400000000,
+    "order_amount": 3546.23,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280453,
+    "order_date": 1689791400000000,
+    "order_amount": 2958.41,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280454,
+    "order_date": 1697653800000000,
+    "order_amount": 3115.05,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280455,
+    "order_date": 1689964200000000,
+    "order_amount": 1335.87,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280456,
+    "order_date": 1703701800000000,
+    "order_amount": 3478.88,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280457,
+    "order_date": 1680546600000000,
+    "order_amount": 3662.68,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280458,
+    "order_date": 1692901800000000,
+    "order_amount": 1689.85,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280459,
+    "order_date": 1674066600000000,
+    "order_amount": 2735.56,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280460,
+    "order_date": 1690741800000000,
+    "order_amount": 1136.37,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280461,
+    "order_date": 1690741800000000,
+    "order_amount": 1672.25,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280462,
+    "order_date": 1703442600000000,
+    "order_amount": 2008.18,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280463,
+    "order_date": 1694543400000000,
+    "order_amount": 3198.42,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280464,
+    "order_date": 1697740200000000,
+    "order_amount": 2379.21,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280465,
+    "order_date": 1682274600000000,
+    "order_amount": 2692.63,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280466,
+    "order_date": 1685989800000000,
+    "order_amount": 2024.01,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280467,
+    "order_date": 1698431400000000,
+    "order_amount": 2787.72,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280468,
+    "order_date": 1687804200000000,
+    "order_amount": 2574.9,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280469,
+    "order_date": 1699813800000000,
+    "order_amount": 3083.11,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280470,
+    "order_date": 1698345000000000,
+    "order_amount": 2090.03,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280471,
+    "order_date": 1674671400000000,
+    "order_amount": 2771.63,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280472,
+    "order_date": 1679769000000000,
+    "order_amount": 3199.13,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280473,
+    "order_date": 1678732200000000,
+    "order_amount": 1421.77,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280474,
+    "order_date": 1676831400000000,
+    "order_amount": 1721.43,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280475,
+    "order_date": 1685125800000000,
+    "order_amount": 1781.89,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280476,
+    "order_date": 1683916200000000,
+    "order_amount": 1739.87,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280477,
+    "order_date": 1699122600000000,
+    "order_amount": 2091.22,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280478,
+    "order_date": 1689964200000000,
+    "order_amount": 3391.7,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280479,
+    "order_date": 1696876200000000,
+    "order_amount": 3753.15,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280480,
+    "order_date": 1694802600000000,
+    "order_amount": 2861.39,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280481,
+    "order_date": 1681842600000000,
+    "order_amount": 1110.61,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280482,
+    "order_date": 1685903400000000,
+    "order_amount": 3395.52,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280483,
+    "order_date": 1681410600000000,
+    "order_amount": 2071.27,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280484,
+    "order_date": 1691260200000000,
+    "order_amount": 2696.99,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280485,
+    "order_date": 1693593000000000,
+    "order_amount": 2725.44,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280486,
+    "order_date": 1699209000000000,
+    "order_amount": 1857.46,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280487,
+    "order_date": 1674153000000000,
+    "order_amount": 1097.71,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280488,
+    "order_date": 1678473000000000,
+    "order_amount": 3623.47,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280489,
+    "order_date": 1677695400000000,
+    "order_amount": 2959.69,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280490,
+    "order_date": 1694370600000000,
+    "order_amount": 1854.05,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280491,
+    "order_date": 1700332200000000,
+    "order_amount": 1880.09,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280492,
+    "order_date": 1684089000000000,
+    "order_amount": 1011.01,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280493,
+    "order_date": 1693765800000000,
+    "order_amount": 1817.56,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280494,
+    "order_date": 1692383400000000,
+    "order_amount": 1132.87,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280495,
+    "order_date": 1691951400000000,
+    "order_amount": 3918.85,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280496,
+    "order_date": 1684953000000000,
+    "order_amount": 1667.64,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280497,
+    "order_date": 1692383400000000,
+    "order_amount": 3791.94,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280498,
+    "order_date": 1674066600000000,
+    "order_amount": 3242.17,
+    "transactions_fees": 22.0
+  },
+  {
+    "order_id": 280499,
+    "order_date": 1697826600000000,
+    "order_amount": 2819.92,
+    "transactions_fees": 22.0
+  }
+]
